@@ -22,11 +22,10 @@ pip install bcrypt
 python main.py
 ```
 
+## Algorithm
+<p align="center"><img src= "screenshots/algorithm.png"/></p>
 
-## Key Points:
-1. **Table Example**: The `## Table Example` section contains a Markdown table with columns for features, descriptions, and status.
-2. **Images**: The `## Images` section shows how to embed images both from an external URL and from within the repository.
-3. **Usage**: Provides an example of how to document the usage of your project.
-4. **Contributing**: Guidelines for others to contribute to your project.
+## Users Example
+<p align="center"><img src= "screenshots/users.png"/></p>
 
-Feel free to modify the sections and content to match your project's specifics.
+## Rules to Play : 
