@@ -20,10 +20,10 @@ pip install bcrypt
 
 # Run the game
 python main.py
-''
+```
 
 
-### Key Points:
+## Key Points:
 1. **Table Example**: The `## Table Example` section contains a Markdown table with columns for features, descriptions, and status.
 2. **Images**: The `## Images` section shows how to embed images both from an external URL and from within the repository.
 3. **Usage**: Provides an example of how to document the usage of your project.
