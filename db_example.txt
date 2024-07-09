@@ -1,0 +1,4 @@
+id,   name,     age,    contact,       password,       balance
+1,    Joe,      21,     1234567890,    catiscute,      187
+2,    Preeti,   18,     1231231231,    iloveironman,   978
+3,    Anant,    35,     1122334455,    godisgreat,     478
