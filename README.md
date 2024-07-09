@@ -28,4 +28,5 @@ python main.py
 ## Users Example
 <p align="center"><img src= "screenshots/users.png"/></p>
 
-## Rules to Play : 
+## Rules to Play:
+<p align="center"><img src= "screenshots/rules.png"/></p>
