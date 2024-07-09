@@ -20,7 +20,7 @@ pip install bcrypt
 
 # Run the game
 python main.py
-
+''
 
 
 ### Key Points:
